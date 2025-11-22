@@ -7,3 +7,7 @@ console.log(2 , 3)
 function min(a , b) {
     console.log(a - b);
 }
+
+function um (a , b){
+    console.log(a * b)
+}
